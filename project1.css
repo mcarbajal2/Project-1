@@ -1,0 +1,97 @@
+
+#page {
+	height: 99vh;
+	position: relative;
+	background-image: url("carbon.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	
+}
+
+#header {
+	width: 100%;
+	height: 90px;
+	background-image: url("5.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#nav {
+	width: 100%;
+	height: 40px;
+	background-image: url("warning.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+#body {
+	width: 80vh;
+	height: 80vh;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	background-color: #000100;
+}
+
+#footer {
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	top 10px;
+	background-image: url("noiselines.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial Black;
+	font-size: 60px;
+	font-style: italic;
+	margin-top: 0px;
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial Black;
+	margin-top: 10px;
+	font-family: Calisto MT;
+	font-size: 45px;
+	color: #ffffff;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	text-align: center;
+}
+
+td.black {
+	font-size: 20px;
+	font-family: Arial Black;
+	background-color: #000000;
+	border: 3px solid white;
+}
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+p {
+	text-align: center;
+	margin-top: 6px;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: Calisto MT;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+p.footer{
+	font-size: 16px;
+	color: #000000;
+}
